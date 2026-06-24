@@ -9,9 +9,8 @@
 print("Hello, GitHub!")
 
 ```
-## My Tasks
+## Tasks
 
-- [x] Add headings
-- [x] Add an image
-- [x] Add a code example
-- [ ] Complete GitHub Markdown course
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
