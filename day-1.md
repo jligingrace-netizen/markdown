@@ -3,7 +3,7 @@
 ## Morning Planning
 
 ## Review
-![GitHub Octocat](https://octodex.github.com/images/yaktocat.png)
+![Octocat](https://octodex.github.com/images/yaktocat.png)
 ```python
 
 print("Hello, GitHub!")
